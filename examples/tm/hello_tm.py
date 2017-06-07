@@ -40,7 +40,7 @@ PLEASE READ THROUGH THE CODE COMMENTS - THEY EXPLAIN THE OUTPUT IN DETAIL
 import numpy
 from itertools import izip as zip, count
 
-from nupic.algorithms.temporal_memory import TemporalMemory as TM
+from nupic.research.temporal_memory import TemporalMemory as TM
 
 
 # Utility routine for printing the input vector
